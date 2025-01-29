@@ -1,4 +1,4 @@
-# Crop Yield Prediction
+# Crop Yield Prediction using Random Forest Algorithm
 
 ## Project Overview
 Crop Yield Prediction is a machine learning-based project aimed at helping farmers predict crop yield before cultivation. The system uses historical agricultural data, weather parameters, and soil conditions to forecast crop productivity. The prediction is performed using the Random Forest Algorithm, which is known for its high accuracy in regression tasks.
@@ -33,26 +33,31 @@ Crop Yield Prediction is a machine learning-based project aimed at helping farme
 1. Install Python (3.x recommended)
 2. Install XAMPP Server
 3. Install required Python packages using:
+   
    ```sh
    pip install numpy pandas scikit-learn beautifulsoup4 requests flask
    ```
 
 ### Steps to Run the Project
 1. Clone the repository:
+   
    ```sh
    git clone https://github.com/your-username/CropYieldPrediction.git
    ```
-2. Navigate to the project directory:
+3. Navigate to the project directory:
+   
    ```sh
    cd CropYieldPrediction
    ```
-3. Start XAMPP and enable Apache & MySQL services.
-4. Place the backend files in the `htdocs` folder of XAMPP.
-5. Run the Python script to train the model:
+5. Start XAMPP and enable Apache & MySQL services.
+6. Place the backend files in the `htdocs` folder of XAMPP.
+7. Run the Python script to train the model:
+   
    ```sh
    python train_model.py
    ```
-6. Open your web browser and visit:
+9. Open your web browser and visit:
+    
    ```
    http://localhost/CropYieldPrediction
    ```
