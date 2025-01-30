@@ -42,12 +42,12 @@ Crop Yield Prediction is a machine learning-based project aimed at helping farme
 1. Clone the repository:
    
    ```sh
-   git clone https://github.com/your-username/CropYieldPrediction.git
+   git clone https://github.com/patelcodes26/Crop-Yield-Prediction.git
    ```
 3. Navigate to the project directory:
    
    ```sh
-   cd CropYieldPrediction
+   cd Crop-Yield-Prediction
    ```
 5. Start XAMPP and enable Apache & MySQL services.
 6. Place the backend files in the `htdocs` folder of XAMPP.
@@ -59,7 +59,7 @@ Crop Yield Prediction is a machine learning-based project aimed at helping farme
 9. Open your web browser and visit:
     
    ```
-   http://localhost/CropYieldPrediction
+   http://localhost/Crop-Yield-Prediction
    ```
 
 ## How It Works
