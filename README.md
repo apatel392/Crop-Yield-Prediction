@@ -42,7 +42,7 @@ Crop Yield Prediction is a machine learning-based project aimed at helping farme
 1. Clone the repository:
    
    ```sh
-   git clone https://github.com/patelcodes26/Crop-Yield-Prediction.git
+   git clone https://github.com/apatel392/Crop-Yield-Prediction.git
    ```
 3. Navigate to the project directory:
    
